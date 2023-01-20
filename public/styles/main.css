@@ -40,7 +40,7 @@ h1 {
 }
 
 .background-cover {
-  background: url("~/public/images/bg-3.jpg");
+  background: url("../../assets/images/bg-1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
