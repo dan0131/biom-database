@@ -56,7 +56,7 @@ h1 {
     overflow-y: auto;
     height: 100vh;
     width: calc(100% - 280px);
-    background-color: white;
+    background-color: #ebe9e9;
 }
 
 .biom-card {
@@ -77,6 +77,20 @@ h1 {
     &:hover {
         box-shadow: 5px 2.5px 10px lightgray;
         cursor: pointer;
+    }
+}
+
+.detail-view {
+    // background-color: lightgrey;
+    .cover-image {
+        width: 200px;
+        height: 200px;
+        border-radius: 20px;
+    }
+
+    .section {
+        background-color: white;
+        border-radius: 20px;
     }
 }
 

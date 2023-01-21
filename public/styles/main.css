@@ -88,7 +88,7 @@ h1 {
   overflow-y: auto;
   height: 100vh;
   width: calc(100% - 280px);
-  background-color: white;
+  background-color: #ebe9e9;
 }
 
 .biom-card {
@@ -109,10 +109,20 @@ h1 {
   cursor: pointer;
 }
 
+.detail-view .cover-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+}
+.detail-view .section {
+  background-color: white;
+  border-radius: 20px;
+}
+
 .card-cover {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
 }
 
-/*# sourceMappingURL=data:application/json;charset=utf-8,%7B%22version%22:3,%22sourceRoot%22:%22%22,%22sources%22:%5B%22../../src/scss/_base.scss%22,%22../../src/scss/main.scss%22%5D,%22names%22:%5B%5D,%22mappings%22:%22AAEA;AAAA;AAAA;EAGE;EACA;;;AAIF;AAAA;AAAA;AAKA;EACE;;;AAIF;AAAA;AAAA;AAIA;EACE;EACA;;;AAGF;AAAA;EAEE;;;AAGF;EACE;;;AAGF;EACE;EACA;;;ACrCF;EACI;EACA;;;AAGJ;EACI;EACA;EACA;;;AAGJ;EACI;EACA;;;AAGJ;EACI;EACA;EACA;EACA;;;AAIJ;EACI;EACA;EACA;EACA;EACA;EAQA;;AAPA;EACI;EACA;EACA;EACA;EACA;;;AAKR;EACI;EACA;EACA;EACA;EACA;;;AAGJ;EACI;EACA;EACA;EACA;EACA;EACA;EACA;;;AAGJ;EACI;EACA;EACA;EACA;;AAEA;EACI;EACA;;AAGJ;EACI;;AAGJ;EACI;EACA;;;AAKR;EACI;EACA;EACA%22,%22file%22:%22main.css%22%7D */
+/*# sourceMappingURL=data:application/json;charset=utf-8,%7B%22version%22:3,%22sourceRoot%22:%22%22,%22sources%22:%5B%22../../src/scss/_base.scss%22,%22../../src/scss/main.scss%22%5D,%22names%22:%5B%5D,%22mappings%22:%22AAEA;AAAA;AAAA;EAGE;EACA;;;AAIF;AAAA;AAAA;AAKA;EACE;;;AAIF;AAAA;AAAA;AAIA;EACE;EACA;;;AAGF;AAAA;EAEE;;;AAGF;EACE;;;AAGF;EACE;EACA;;;ACrCF;EACI;EACA;;;AAGJ;EACI;EACA;EACA;;;AAGJ;EACI;EACA;;;AAGJ;EACI;EACA;EACA;EACA;;;AAIJ;EACI;EACA;EACA;EACA;EACA;EAQA;;AAPA;EACI;EACA;EACA;EACA;EACA;;;AAKR;EACI;EACA;EACA;EACA;EACA;;;AAGJ;EACI;EACA;EACA;EACA;EACA;EACA;EACA;;;AAGJ;EACI;EACA;EACA;EACA;;AAEA;EACI;EACA;;AAGJ;EACI;;AAGJ;EACI;EACA;;;AAMJ;EACI;EACA;EACA;;AAGJ;EACI;EACA;;;AAKR;EACI;EACA;EACA%22,%22file%22:%22main.css%22%7D */
